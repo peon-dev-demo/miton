@@ -12,5 +12,4 @@ final class UnusedPrivateMethod2
     }
 
     private function used(): void {}
-    private function neverUsed(): void {}
 }
